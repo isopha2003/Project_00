@@ -4,9 +4,10 @@
   <head>
     <meta charset="utf-8">
     <title>
+    첫 프로젝트
     </title>
     <style>
-      </style>
+    </style>
   </head>
   <body>
     <table>

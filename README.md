@@ -7,6 +7,9 @@
     첫 프로젝트
     </title>
     <style>
+      table {
+        border : 3px solid aliceblue;
+      }
     </style>
   </head>
   <body>

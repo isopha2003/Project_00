@@ -3,9 +3,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>
-    첫 프로젝트
-    </title>
+    <title>첫 프로젝트</title>
     <style>
       table {
         border : 3px solid aliceblue;
